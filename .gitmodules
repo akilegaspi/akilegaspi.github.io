@@ -1,0 +1,4 @@
+[submodule "akilegaspi.github.io"]
+	path = akilegaspi.github.io
+	url = git@github.com:akilegaspi/akilegaspi.github.io.git
+	branch = master
