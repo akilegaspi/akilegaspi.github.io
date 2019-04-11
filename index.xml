@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functional Blogrammer in the PH</title>
+    <link>http://akilegaspi.me/</link>
+    <description>Recent content on Functional Blogrammer in the PH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://akilegaspi.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://akilegaspi.me/hello-world/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://akilegaspi.me/hello-world/</guid>
+      <description>Introduction So I finally setup a blog on what I&amp;rsquo;ve been doing lately but this is just an introduction so actually, #WHATS UP!
+What you&amp;rsquo;ll find in the future mostly here is a bunch of my ramblings about functional programming, programming, haskell and memoryleaks; Just kidding, I&amp;rsquo;m more of a user-friendly blogger who&amp;rsquo;ll most likely teach you about Monads and arguing about the fundamentals of Computer Science just because I can ;)</description>
+    </item>
+    
+  </channel>
+</rss>
